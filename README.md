@@ -12,5 +12,3 @@ Inputs:
 
 Output:
 - Simple Interest
-
-Fixed typo
